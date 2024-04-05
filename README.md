@@ -1,5 +1,8 @@
-# 💫 About Me:
-¡Hola! 👋 Soy una desarrolladora front-end nacida en la ciudad de La Plata, Argentina. Estudié abogacía en la UNLP y posteriormente me convertí en técnica informática.<br> Comencé con el desarrollo web de forma autodidacta y luego estudié en Coderhouse la carrera de FrontEnd React Js, donde con mucha dedicación, logré posicionarme en el top 10 de cada módulo y en la carrera en su totalidad. <br>Soy apasionada del básquetbol, y creo que la disciplina y el trabajo en equipo que aprendí de este deporte se reflejan en mi enfoque para abordar cada proyecto y en mi constante búsqueda de mejorar mis habilidades técnicas.💻🚀
+## 💫 About Me:
+💻 Desarrolladora front-end y técnica informática.<br/>
+🇦🇷 Argentina <br/>
+🏀 Basquetbolista <br/>
+⚽ Xeneize
 
 
 ## 🌐 Socials:
